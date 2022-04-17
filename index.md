@@ -22,7 +22,7 @@
  <div class="answers">
  <div class="out1"></div>
  <div class="out2"></div>
- /div>
+ </div>
  <br>
 <script src="main.js"></script>
 	<hr>
