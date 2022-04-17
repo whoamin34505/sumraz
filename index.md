@@ -19,11 +19,10 @@
  <br>
  <h2 class="title">Решение и ответ:</h2>
  <img src="https://i.imgur.com/KkGhpJi.png" style="height: 80px;margin: 10px auto 20px;display: block;">
-</div>
  <div class="answers">
  <div class="out1"></div>
  <div class="out2"></div>
- </div>
+ /div>
  <br>
 <script src="main.js"></script>
 	<hr>
